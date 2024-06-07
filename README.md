@@ -13,6 +13,7 @@ This is a simple HTML and CSS implementation of a responsive image gallery. The 
 
 - HTML
 - CSS
+- JS
 
 ## File Structure
 
@@ -91,7 +92,7 @@ The time complexity of this solution is O(n), where n is the length of the input
 
 ## Usage
 
-To use these solutions, simply include the corresponding JavaScript file in your project and call the respective functions with the appropriate arguments.
+To use these solutions, simply include the corresponding JavaScript file in my project and call the respective functions with the appropriate arguments.
 
 
 // Example usage for "Find Subarray with Sum"
