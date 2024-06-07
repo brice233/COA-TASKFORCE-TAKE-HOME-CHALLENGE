@@ -49,8 +49,8 @@
   display: flex;
   width: 213px;
   height: 100px;
-  
-  flex-direction: column;
+
+ flex-direction: column;
   transition: transform 0.3s ease, opacity 0.3s ease;
   margin: 0 13px 50px;
 }
@@ -85,7 +85,7 @@
 .info h4 {
   font-family: Poppins, sans-serif;
   position: fixed;
-  color: #98a7ee;
+  color: #0fadb3;
   text-decoration: none;
   font-size: 15px;
   font-weight: 400;
@@ -119,11 +119,11 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(
+  /* background: linear-gradient(
     to bottom,
     rgba(0, 0, 0, 0) 0%,
     rgba(0, 0, 0, 0.5) 100%
-  );
+  ); */
   pointer-events: none;
   transition: background 0.3s ease;
   z-index: 1;
